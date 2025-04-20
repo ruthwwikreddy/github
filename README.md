@@ -100,9 +100,8 @@ Here’s why you should start using Git and GitHub today:
 I'm Ruthwik Reddy, and I made this for anyone starting out with Git and GitHub.  
 If you found this useful, consider giving the repo a ⭐️ and sharing it with others!
 
-- 🔗 LinkedIn: [Ruthwik Reddy](https://www.linkedin.com/in/ruthwikreddy)  
-- 🐙 GitHub: [ruthwikreddy](https://github.com/ruthwikreddy)  
-- 🐦 Twitter: [@ruthwikreddy](https://twitter.com/)  
+- 🔗 LinkedIn: [Ruthwik Reddy](https://www.linkedin.com/in/ruthwwikreddy)  
+- 🐙 GitHub: [ruthwikreddy](https://github.com/ruthwwikreddy)  
 
 ---
 
